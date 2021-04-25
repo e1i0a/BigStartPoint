@@ -1,0 +1,48 @@
+﻿a {
+    font-size: xx-large;
+    border-bottom-color: blue;
+    color: deeppink;
+    border: 1px solid green;
+}
+
+p {
+    color: gray;
+    font: bold;
+}
+
+.uniq {
+    font: italic;
+    color: red;
+}
+
+a:hover {
+    color: green;
+}
+
+#point {
+    background-image: url('../images/anar.jpeg');
+}
+
+body {
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+td p{
+   color:brown;
+} 
+
+td#rtl {
+    direction:rtl;
+    text-align:justify;
+    text-decoration : underline;
+}
+
+.one{
+    background-color: azure;
+}
+
+.two{
+    background-color: blueviolet
+}
