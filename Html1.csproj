@@ -68,8 +68,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="account.html" />
-    <Content Include="Content\StyleSheet1.css" />
-    <Content Include="enterpage.html" />
+    <Content Include="Content\StyleSheetone.css" />
+    <Content Include="..\..\..\Desktop\BigStartPoint\Project\enterpage.html">
+      <Link>enterpage.html</Link>
+    </Content>
+    <Content Include="Home.1.html" />
     <Content Include="Home.html" />
     <Content Include="images\aftab.jpeg" />
     <Content Include="images\anar.jpeg" />
@@ -78,6 +81,8 @@
     <Content Include="images\sabt.jpg" />
     <Content Include="images\vorud.jpg" />
     <Content Include="JavaScript.js" />
+    <Content Include="loginpage.html" />
+    <Content Include="Content\StyleSheet.1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
