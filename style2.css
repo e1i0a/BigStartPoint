@@ -1,0 +1,91 @@
+﻿a {
+    font-size: xx-large;
+    border-bottom-color: blue;
+    color: deeppink;
+    border: 1px solid green;
+}
+
+p {
+    color: black;
+    font: bold;
+    text-align: center;
+}
+
+.uniq {
+    font: italic;
+    color: red;
+}
+
+a:hover {
+    color: green;
+}
+
+#point {
+    background-image: url('../images/anar.jpeg');
+}
+
+body {
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+td p {
+    color: brown;
+}
+
+td#rtl {
+    direction: rtl;
+    text-align: justify;
+    text-decoration: underline;
+}
+
+.one {
+    background-color: azure;
+}
+
+.two {
+    background-color: blueviolet
+}
+
+div {
+    font-size: xx-large;
+    background-color: gray;
+    border: 3px solid black;
+    position: relative;
+    height: 350px;
+    width: 30%;
+    top: 100px;
+    left: 35%;
+}
+
+.div2 {
+    position: relative;
+    top: 10px;
+    background-color: darkcyan;
+    width: 84%;
+    height: 50px;
+    left: 10%;
+    text-align: center center;
+}
+
+.div3 {
+    position: relative;
+    top: 25px;
+    background-color: azure;
+    width: 60%;
+    height: 200px;
+    left: 10%;
+    float: left;
+}
+
+.div4 {
+    position: relative;
+    top: 25px;
+    background-color: lightcoral;
+    width: 20%;
+    height: 200px;
+    left: 74%;
+    font-size: xx-large;
+    text-align: center;
+}
